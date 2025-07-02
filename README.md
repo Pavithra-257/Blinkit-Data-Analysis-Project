@@ -65,28 +65,33 @@ The dataset includes item-level sales and store information with the following c
 
 ---
 
-## 📈 Business Recommendations
+# 📈 Business Recommendations
 
-Double Down on Top Categories
-Fruits and Vegetables and Snack Foods are the top-performing item types, each contributing ~$180K in sales.
-✅ Recommendation: Launch combo offers, subscription packs, and seasonal promotions like "Buy 1 Get 1 Free" to further boost these categories.
+## Focus on the Top Categories
+**Fruits and Vegetables** and **Snack Foods** are the top-performing item types.
 
-Improve Visibility of Low-Performing Categories
-Seafood, Breakfast Items, and Others showed the lowest contribution to sales.
-✅ Recommendation: Increase visibility with banner ads, push notifications, or remove them if consistently underperforming.
+✅ **Recommendation**: Launch combo offers, subscription packs, and seasonal promotions like "Buy 1 Get 1 Free" to further boost these categories.
 
-Promote Low Fat Products
-Low Fat products account for 65% of total sales, showing strong consumer preference.
-✅ Recommendation: Highlight Low Fat items in health campaigns, especially in metro/Tier 1 areas, with tags like “Most Popular” or “Healthy Choice.”
+## Improve Visibility of Low-Performing Categories
+**Seafood, Breakfast Items**, and **Others** showed the lowest contribution to sales.
 
-Focus on Supermarket Type1 and Tier 3 Outlets
-Supermarket Type1 has the highest revenue and sales volume.
-Tier 3 cities outperform Tier 1 and Tier 2 in revenue.
-✅ Recommendation: Expand Supermarket Type1 footprint, especially in Tier 3 cities. Prioritize inventory and delivery optimization in these zones.
+✅ **Recommendation**: Increase visibility with banner ads, push notifications, or remove them if consistently underperforming.
 
-Boost Ratings Visibility
-Average rating is 3.9, which is decent, but could be higher.
-✅ Recommendation: Show high-rated items more prominently. Offer rating-based sorting and incentivize users to leave positive reviews.
+## Promote Low Fat Products
+**Low Fat** products account for 65% of total sales, showing strong consumer preference.
+
+✅ **Recommendation**: Highlight Low Fat items in health campaigns, especially in metro/Tier 1 areas, with tags like “Most Popular” or “Healthy Choice.”
+
+## Focus on Supermarket Type1 and Tier 3 Outlets
+**Supermarket Type1** has the highest revenue and sales volume.
+**Tier 3** cities outperform Tier 1 and Tier 2 in revenue.
+
+✅ **Recommendation**: Expand Supermarket Type1 footprint, especially in Tier 3 cities. Prioritize inventory and delivery optimization in these zones.
+
+## Boost Ratings Visibility
+Average rating is **3.9**, which is decent, but could be higher.
+
+✅ **Recommendation**: Show high-rated items more prominently. Offer rating-based sorting and incentivize users to leave positive reviews.
 
 ---
 
